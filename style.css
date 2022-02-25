@@ -24,6 +24,9 @@ main {
 
 .evaluation-form-row {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
+}
+
+footer {
+  text-align: center;
 }
