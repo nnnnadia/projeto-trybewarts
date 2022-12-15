@@ -1,13 +1,15 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Trybe - Trybewarts
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes podem enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico!
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Este foi o primeiro projeto em dupla da Trybe, nele praticamos o pair programing com o uso da extensão Live Share do Visual Studio Code.
+
+#### Habilidades desenvolvidas durante o projeto
+- Criar formulários em HTML;
+- Utilizar CSS Flexbox para criar layouts flexíveis;
+- Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
+- Construir páginas que alteram o seu layout de acordo com a orientação da tela;
+
+Print da página:
+
+![print do projeto trybewarts em execução](./trybewarts-print.png)
